@@ -1,0 +1,1 @@
+This is a PyTorch implementation of "Distilling the Knowledge in a Neural Network"
